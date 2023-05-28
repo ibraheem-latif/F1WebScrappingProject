@@ -17,10 +17,6 @@ This project is a web application that scrapes real-time Formula 1 driver standi
 - HTML/CSS/JavaScript
 - Axios
 
-## Screenshots
-
-Here are some screenshots of the application:
-
 ## Installation and Setup Instructions
 
 1. Clone this repository.
